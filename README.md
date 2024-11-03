@@ -16,12 +16,30 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/bijjamvijay/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bijjamvijay" height="30" width="40" />
-  </a>
-</p>
+<!-- grph -->
+<div align="left">
+  <div>
+    <img
+      height="150"
+      alt="stats graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
+    />
+    <img
+      height="150"
+      alt="languages graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-Addict&theme=vue"
+    />
+  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
+  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
+</div>
+
+##
+
+If you have any questions or just want to say hi, feel free to reach out.
+
+Have a great day!
+
 
 
 [bijjamvijayreddy](https://github.com/bijjamvijayreddy)
