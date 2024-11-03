@@ -42,13 +42,3 @@ Have a great day!
 
 
 [bijjamvijayreddy](https://github.com/bijjamvijayreddy)
-
-<br>
-
-<h3>GitHub Statistics:</h3>
-
-![Bijjam Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=bijjamvijay&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bijjamvijay&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bijjamvijay&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)
