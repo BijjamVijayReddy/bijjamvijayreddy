@@ -1,40 +1,17 @@
 
 ##
 
-And here are some interesting grphs:
 
 <!-- welcome message -->
 
-# Hi there! I'm Cael.
+# Hi there! I'm Bijjam Vijay.
 
-<!-- badge -->
-<div>
-  <a href="https://t.me/owencael" target="_blank">
-    <img
-      height="35"
-      alt="telegram logo"
-      src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
-  <a href="mailto:MR-Addict@qq.com" target="_blank">
-    <img
-      height="35"
-      alt="gmail logo"
-      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
-  <a href="https://mraddict.one" target="_blank">
-    <img
-      height="35"
-      alt="microsoft-outlook logo"
-      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
-</div>
-
+<p align="right"> <h3>Profile Views :-</h3> 
+    <img src="https://komarev.com/ghpvc/?username=bijjamvijay&label=Profile%20views&color=0e75b6&style=flat" alt="bijjamvijay" /> 
+</p>
 <br/>
 
-I'm an undergradute student of Njtech University from Jiangsu China.
+I'm an undergradute student of BFIT from Dehadun(UK).
 
 I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
 
@@ -150,16 +127,15 @@ And here are some interesting grphs:
     <img
       height="150"
       alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bijjamvijayreddy&theme=vue"
     />
     <img
       height="150"
       alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-Addict&theme=vue"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bijjamvijayreddy&theme=vue"
     />
   </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bijjamvijayreddy&theme=vue" alt="profile detail" />
 </div>
 
 ##
