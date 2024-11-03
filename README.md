@@ -44,12 +44,7 @@ Here are programming languages or tools I frequently used:
     alt="mongodb logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
   />
-  <img
-    height="30"
-    width="42"
-    alt="redis logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/nodejs-original.svg"
-  />
+ 
   
 </div>
 
@@ -59,20 +54,24 @@ And here are some interesting grphs:
 
 <!-- grph -->
 <div align="left">
-  <div>
-    <img
-      height="150"
-      alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bijjamvijayreddy&theme=vue"
-    />
-    <img
-      height="150"
-      alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bijjamvijayreddy&theme=vue"
-    />
-  </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bijjamvijayreddy&theme=vue" alt="profile detail" />
+ <div align="center">
+  <img
+    height="150"
+    alt="GitHub Stats Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bijjamvijayreddy&theme=vue"
+  />
+  <img
+    height="150"
+    alt="Most Used Languages Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bijjamvijayreddy&theme=vue"
+  />
+  <br>
+  <img
+    alt="GitHub Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bijjamvijayreddy&theme=vue"
+  />
 </div>
+
 
 ##
 
