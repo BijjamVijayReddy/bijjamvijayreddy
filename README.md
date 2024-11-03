@@ -11,12 +11,11 @@
 </p>
 
 
-<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/bijjamvijayreddy?tab=followers"><img src="https://img.shields.io/github/followers/bijjamvijayreddy?label=Followers&style=social" alt="GitHub Badge"></a>
     
 </div>
 
 
-<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
 
 I'm an undergradute student of BFIT from Dehadun(UK).
