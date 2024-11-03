@@ -48,7 +48,7 @@ Here are programming languages or tools I frequently used:
     height="30"
     width="42"
     alt="redis logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/nodejs-original.svg"
   />
   
 </div>
