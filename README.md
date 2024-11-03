@@ -6,18 +6,17 @@
 
 # Hi there! I'm Bijjam Vijay.
 ## ❤ Views and Followers
-<div style="margin-top: 20px;">
-    <div style="text-align: right;">
-        <h3>Profile Views:</h3>
-        <img src="https://komarev.com/ghpvc/?username=bijjamvijay&label=Profile%20views&color=0e75b6&style=flat" alt="bijjamvijay" />
-    </div>
-
-    <div style="margin-top: 10px;">
-        <a href="https://github.com/bijjamvijayreddy?tab=followers">
-            <img src="https://img.shields.io/github/followers/bijjamvijayreddy?label=Followers&style=social" alt="GitHub Badge">
-        </a>
-    </div>
+<div align="right">
+    <h3>Profile Views:</h3>
+    <img src="https://komarev.com/ghpvc/?username=bijjamvijay&label=Profile%20views&color=0e75b6&style=flat" alt="bijjamvijay" />
 </div>
+
+<br>
+
+<a href="https://github.com/bijjamvijayreddy?tab=followers">
+    <img src="https://img.shields.io/github/followers/bijjamvijayreddy?label=Followers&style=social" alt="GitHub Badge">
+</a>
+
 
 
 
