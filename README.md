@@ -5,10 +5,18 @@
 <!-- welcome message -->
 
 # Hi there! I'm Bijjam Vijay.
-
-<p align="right"> <h3>Profile Views :-</h3> 
+<div>
+    <p align="right"> <h3>Profile Views :-</h3> 
     <img src="https://komarev.com/ghpvc/?username=bijjamvijay&label=Profile%20views&color=0e75b6&style=flat" alt="bijjamvijay" /> 
 </p>
+
+
+<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
+    
+</div>
+
+
+<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
 
 I'm an undergradute student of BFIT from Dehadun(UK).
