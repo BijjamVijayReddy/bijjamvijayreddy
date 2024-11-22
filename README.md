@@ -5,7 +5,7 @@
 <!-- welcome message -->
 
 # Hi there! I'm Bijjam Vijay.
-## ❤ Views and Followers
+## ❤ Welcome to My Git Profile. Thanks for Visit me.
 <div>
     <h3>Profile Views:</h3>
     <img src="https://komarev.com/ghpvc/?username=bijjamvijay&label=Profile%20views&color=0e75b6&style=flat" alt="bijjamvijay" />
