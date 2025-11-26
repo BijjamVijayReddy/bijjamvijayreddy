@@ -53,6 +53,13 @@ A highly motivated and experienced **React Developer with 4+ years of experience
 />
 </a>
 
+<a href="https://wa.me/919491467216" target="_blank">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp"
+    alt="WhatsApp Chat"
+  />
+</a>
+
 
  <a href="tel:+919491467216"><img src="https://img.shields.io/badge/Phone-9491467216-blue"/></a>
 </p>
