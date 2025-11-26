@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Bijjam Vijay</h1>
-<h3 align="center">Senior React Developer | MERN Stack | 3.6+ Years Experience</h3>
+<h3 align="center">Senior React Developer | Java Full Stack Developer | 4.0+ Years Experience</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bijjamvijay&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
@@ -8,7 +8,7 @@
 ---
 
 ### 🔥 Summary
-A highly motivated and experienced **React Developer with 3.6+ years of expertise** in building scalable, performance-driven web applications.  
+A highly motivated and experienced **React Developer with 4.0+ years of expertise** in building scalable, performance-driven web applications.  
 Proficient in **ReactJS, Redux, Next.js, and TypeScript**, with hands-on experience working in **Agile environments** and collaborating on enterprise-level applications.  
 Passionate about clean code, UI/UX improvements, and modern frontend engineering.
 
