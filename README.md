@@ -46,7 +46,13 @@ A highly motivated and experienced **React Developer with 4+ years of experience
 ### 🌐 Let's Connect
 <p>
  <a href="https://linkedin.com/in/bijjamvijay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
- <a href="mailto:bijjamvijayreddy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/[Email-Contact-red](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=jrjtXDzFpjmHKZTSHHwChNMwvghsxkQHjWjTkDsNtMqFjLCDrvBBZkJjztDbHlWXSLDKTHXs)/></a>
+<a href="https://mail.google.com/mail/?view=cm&to=bijjamvijayreddy@gmail.com" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Email-Contact-red"
+    alt="Email Contact"
+/>
+</a>
+
  <a href="tel:+919491467216"><img src="https://img.shields.io/badge/Phone-9491467216-blue"/></a>
 </p>
 
