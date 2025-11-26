@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Bijjam Vijay</h1>
-<h3 align="center">Senior React Developer | Java Full Stack Developer | 4.0+ Years Experience</h3>
+<h3 align="center">Senior React Developer | 4+ Years of Experience</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bijjamvijay&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
@@ -8,65 +8,46 @@
 ---
 
 ### 🔥 Summary
-A highly motivated and experienced **React Developer with 4.0+ years of expertise** in building scalable, performance-driven web applications.  
-Proficient in **ReactJS, Redux, Next.js, and TypeScript**, with hands-on experience working in **Agile environments** and collaborating on enterprise-level applications.  
-Passionate about clean code, UI/UX improvements, and modern frontend engineering.
+A highly motivated and experienced **React Developer with 4+ years of experience**, specializing in building scalable, performance-driven web applications. Skilled in ReactJS, Redux, Next.js, TypeScript, and modern frontend architecture with experience delivering enterprise-level solutions in Agile teams.
 
 ---
 
-### 👨‍💻 Professional Experience
-**💼 React Developer — GlobalLogic (Hitachi Group)**  
+### 💼 Professional Experience
+#### **React Developer — GlobalLogic (Hitachi Group)**  
 📍 Bengaluru | *Dec 2024 – Present*
+- Managed scalable application architecture with React, TypeScript, Storybook and Tailwind CSS.
+- Implemented React Query for optimized data fetching and caching.
+- Developed reusable UI components, improving development efficiency and visual consistency.
+- Integrated localization features using i18next for multi-language support.
+- Enhanced form handling using React Hook Form, improving validation and UX.
 
-**💼 React Developer — Datamatics Pvt Ltd**  
+#### **React Developer — Datamatics Pvt Ltd**
 📍 Bengaluru | *Feb 2022 – Nov 2024*
+- Built and maintained responsive UI for enterprise applications using React, Hooks, Material UI & Emotion.
+- Implemented secure authentication with **Keycloak.js** and role-based access.
+- Integrated REST APIs and managed state using **Redux / Redux-Saga / Redux-Thunk**.
+- Improved performance and reduced bugs through code reviews and refactoring.
+- Collaborated with stakeholders in Agile sprints, ensuring timely delivery of modules.
+- Managed version control and branching strategies with **Azure Repos Git**.
+- Improved UI/UX leading to increased user engagement and performance stability.
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
+**Frontend:** ReactJS, Next.js, TypeScript, JavaScript (ES6+), Redux, Redux-Saga, Redux-Thunk, Context API  
+**UI / Styling:** Material UI, TailwindCSS, Emotion, Storybook  
+**Tools:** Git, Azure Repos, Agile, Jira  
+**Testing:** Jest, React Testing Library  
+**Other:** Keycloak Auth, RESTful APIs, i18next, React Query
 
-#### **Frontend & Frameworks**
-ReactJS • Next.js • Redux • Redux-Saga • Redux-Thunk • TypeScript • JavaScript (ES6+)  
-React Query • Context API • Hooks • Storybook • Material UI • TailwindCSS • Emotion
-
-#### **Testing & Tools**
-Jest • React Testing Library • Git • Azure Repos • Agile • Jira
-
-#### **Other**
-REST APIs • Responsive UI • Internationalization (i18next) • Keycloak Authentication
 
 ---
 
-### 📌 Key Projects
-
-| Project | Duration | Highlights |
-|--------|----------|------------|
-| **GLJ-BMS (Building Management System)** | Dec 2024 – Present | Built scalable UI modules using TypeScript, React Query, Storybook & Tailwind. Implemented localization with i18next & Hook Form |
-| **IDFC First Bank — D2C Collection** | Jan 2023 – Oct 2024 | Managed secure financial workflows using Redux, Material UI & Keycloak. Improved product performance & testing coverage using Jest |
-| **IDFC First Bank — PayOut Automation** | Feb 2022 – Dec 2022 | Created responsive UI with React, integrated APIs & optimized business flows |
-| **E-commerce Application** | 2021 | Implemented payment gateway, inventory management & responsive UI for B2B/B2C |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bijjamvijay&theme=vue" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bijjamvijay&theme=vue" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bijjamvijay&theme=vue" />
-</div>
-
----
-
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 <p>
  <a href="https://linkedin.com/in/bijjamvijay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
- <a href="mailto:bijjamvijayreddy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-red"/></a>
+ <a href="mailto:bijjamvijayreddy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/[Email-Contact-red](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=jrjtXDzFpjmHKZTSHHwChNMwvghsxkQHjWjTkDsNtMqFjLCDrvBBZkJjztDbHlWXSLDKTHXs)/></a>
  <a href="tel:+919491467216"><img src="https://img.shields.io/badge/Phone-9491467216-blue"/></a>
 </p>
 
----
-
-⭐ **Thank you for visiting my profile!**
-Feel free to explore my repositories or reach out for collaboration & opportunities.
+⭐ **Thanks for visiting my profile!**
